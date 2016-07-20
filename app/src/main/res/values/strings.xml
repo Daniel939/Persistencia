@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Petagram</string>
+
+    <string name="Mascota_1">Toby</string>
+    <string name="Rating">Rating</string>
+    <string name="Favoritas">Mascotas Favoritas</string>
+
+    <string name="Menu_Contacto">Contacto</string>
+    <string name="Menu_About">Acerca De</string>
+    <string name="About">Estudiante de Ingenieria en la FES Aragón</string>
+    <string name="Menu_Fav">Mascotas Favoritas</string>
+
+    <string name="Titulo">Confirmar Datos</string>
+    <string name="Nombre">Nombre completo</string>
+    <string name="Email">Email</string>
+    <string name="Comentario">Comentario</string>
+    <string name="Boton">Enviar Comentario</string>
+    <string name="Boton2">Editar Datos</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
